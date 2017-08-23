@@ -1,5 +1,5 @@
 # FirstAttempt
 
 ## Terminology
-# repositories - local and remote
-# branches - master/trunk and others
+### 1) repositories - local and remote
+### 2) branches - master/trunk and others
